@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-inventory-react-inertia",
+  "capabilityKey": "liberusoftware/module-maintenance-inventory",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-maintenance-inventory-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/maintenance/nextjs/inventory.md",
+  "presentationPlan": "projects/maintenance/react/inventory.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
